@@ -77,7 +77,7 @@ first_lb.grid(row=7, column=1)
 term1_1 = Label(
     frame,
     font='times 15',
-    text="первое слогаемое"
+    text="первое слагаемое"
 )
 term1_1.grid(row=8, column=1)
 
@@ -91,7 +91,7 @@ term2_1.grid(row=8, column=2, pady=5)
 term1_2 = Label(
     frame,
     font='times 15',
-    text="второе слогаемое"
+    text="второе слагаемое"
 )
 term1_2.grid(row=9, column=1)
 
